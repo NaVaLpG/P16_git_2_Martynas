@@ -5,6 +5,7 @@ veiksmas = input("Iveskite zenkla, koki veiksma"
                  " norit atlikti (+ arba -) > ")
 if veiksmas == "+":
     print(f"ats: {sk1 + sk2}")
-
+    print("Buvo atlikta sudetis")
 elif veiksmas == "-":
     print(f"ats: {sk1 - sk2}")
+    print("Buvo atlikta atimtis")
