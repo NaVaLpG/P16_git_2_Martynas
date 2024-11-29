@@ -6,3 +6,5 @@ veiksmas = input("Iveskite zenkla, koki veiksma"
 if veiksmas == "+":
     print(f"ats: {sk1 + sk2}")
 
+elif veiksmas == "-":
+    print(f"ats: {sk1 - sk2}")
