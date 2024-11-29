@@ -10,3 +10,4 @@ for i in range(1, darb_skaicius + 1):
     darbuotojai.append(darbuotojas)
 
 print(darbuotojai)
+print(f"darbuotoju skaicius- {len(darbuotojai)"
